@@ -1,0 +1,42 @@
+.container{
+    /* border: 2px solid red; */
+}
+
+.compHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow:0px 1px 7px 1px #0000001A;
+    border: 2px solid #0000001A;
+}
+.compName{
+    margin: 10px 10px;
+    Font-family: Satisfy;
+    Font-size: 20px;
+    Line-height: 30px;
+    font-weight: 600;
+}
+.compVarities{
+    
+}
+.varitiesSection{
+    align-items: center;
+    /* border: 2px solid #0000001A; */
+}
+.HeadVarities{
+    /* font-family: Poppins; */
+    font-size: 34px;
+    font-weight: 400;
+}
+.Varities{
+    /* border: 2px solid #0000001A; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.VaritiesLine{
+    border-top: 3px solid black;
+    width: 80px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    
+}
