@@ -1,0 +1,55 @@
+.signin_component{    
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.main_container{
+    /* border: 2px solid black; */
+    margin: 10px;
+    width: 42%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.compFields{
+    padding: 20px;
+    display: flex;
+    flex-direction:column;
+}
+.textfield{
+    margin: 15px;
+}
+.getStarted{
+    width: 89%;
+    margin: 20px;
+}
+.CompButtongrp{
+    margin: 5px;
+}
+.compLogo{
+    margin: 10px;
+    padding: 10px;
+    /* border: 1px solid black; */
+}
+.imgComLogo{
+    width: 30%;
+}
+.defineComanyOne{
+    /* font-family: Roboto; */
+    font-size: 26px;
+    font-weight: 500;
+    margin: 15px;
+    color: #212121;
+}
+.defineComanyTwo {
+    /* font-family: Roboto; */
+    font-size: 14px;
+    font-weight: 400;
+    color: #545454;
+}
+.defineComanyThree {
+    /* font-family: Roboto; */
+    font-size: 14px;
+    font-weight: 400;
+    color: #545454;
+}
